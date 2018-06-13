@@ -6,7 +6,8 @@ Audio and Music Analysis and Synthesis in Python<br />
 2018, Tu PT. Agiletech, VietNam<br />
 </p>
 Demo
-![demo1](cough_1.wav.png)![demo2](stream_1.wav.png)
+![demo1](cough_1.wav.png)
+![demo2](stream_1.wav.png)
 <p>
 **Bregman modules:**
 <ul>
