@@ -4,8 +4,7 @@ Audio and Music Analysis and Synthesis in Python<br />
 2010-2014, Michael A. Casey, Dartmouth College, Hanover, NH, USA<br />
 2018, Tu PT. Agiletech, VietNam<br />
 
-![demo1](cough_1.wav.png)
-![demo2](scream_1.wav.png)
+![demo1](cough_1.wav.png) ![demo2](scream_1.wav.png)
 
 **Bregman modules:**
 
