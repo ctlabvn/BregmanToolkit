@@ -1,5 +1,5 @@
 
-from bregman.suite import *
+from .suite import *
 from scipy.signal import lfilter
 from pylab import zeros, where, diff, sqrt
 

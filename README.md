@@ -1,8 +1,9 @@
-BregmanToolkit
-==============
+# BregmanToolkit
+
 <p>
 Audio and Music Analysis and Synthesis in Python<br />
 2010-2014, Michael A. Casey, Dartmouth College, Hanover, NH, USA<br />
+2018, Tu PT. Agiletech, VietNam<br />
 </p>
 <p>
 Bregman modules:

@@ -818,9 +818,9 @@ class DiscreteWSIPLCA2(FactoredSIPLCA2):
             self.taus.append([int(x) for x in currtaus])
             self.tauproportions.append(currtauproportions)
 
-        #print self.taus
-        #print self.tauproportions
-        #print [x.sum() for x in self.tauproportions]
+        #print(self.taus)
+        #print(self.tauproportions)
+        #print([x.sum() for x in self.tauproportions])
 
     def reconstruct(self, W, Z, H, norm=1.0, circular=False):
         if W.ndim == 2:

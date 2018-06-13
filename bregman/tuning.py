@@ -12,8 +12,8 @@ __email__ = 'mcasey@dartmouth.edu'
 
 
 from fractions import Fraction
-from psychoacoustics import dissonance_fun
-from testsignal import default_signal_params, harmonics
+from .psychoacoustics import dissonance_fun
+from .testsignal import default_signal_params, harmonics
 import pylab
 import pdb
 
@@ -25,10 +25,10 @@ class TuningSystem():
 
         Usage examples:
           T = TuningSystem()
-          print T.EQ # equal-temperament 12-tet frequency ratios
-          print T.PY # Pythagorean frequency ratios
-          print T.JI # just intonation frequency ratios
-          print T.BP # equal temperament Bohlen-Pierce 13-step tritave ratios
+          print(T.EQ # equal-temperament 12-tet frequency ratios)
+          print(T.PY # Pythagorean frequency ratios)
+          print(T.JI # just intonation frequency ratios)
+          print(T.BP # equal temperament Bohlen-Pierce 13-step tritave ratios)
           eq = T.to_scale_freqs(T.JI, f0=220) # realize the scale frequencies starting at 220Hz
           x = T.to_scale_sound(T.EQ, f0=220, num_harmonics=6) # realize scale as sound
           x = T.to_scale_intervals(T.PY, f0=220, interval=7, num_harmonics=6) # realize scale as intervals with p5
