@@ -5,8 +5,10 @@ Audio and Music Analysis and Synthesis in Python<br />
 2010-2014, Michael A. Casey, Dartmouth College, Hanover, NH, USA<br />
 2018, Tu PT. Agiletech, VietNam<br />
 </p>
+Demo
+![demo1](cough_1.wav.png)![demo2](stream_1.wav.png)
 <p>
-Bregman modules:
+**Bregman modules:**
 <ul>
 <li>features - collection of time-frequency audio features as numpy arrays</li>
 <li>distance - similarity metrics for feature arrays</li>
@@ -16,7 +18,7 @@ Bregman modules:
 </ul>
 </p>
 
-See INSTALL.txt
+**See [INSTALL.txt](INSTALL.txt)**
 
 Thanks to graduate and post-doctoral users and contributors:
 
