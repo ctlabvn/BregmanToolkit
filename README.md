@@ -1,23 +1,19 @@
 # BregmanToolkit
 
-<p>
 Audio and Music Analysis and Synthesis in Python<br />
 2010-2014, Michael A. Casey, Dartmouth College, Hanover, NH, USA<br />
 2018, Tu PT. Agiletech, VietNam<br />
-</p>
-Demo
+
 ![demo1](cough_1.wav.png)
-![demo2](stream_1.wav.png)
-<p>
+![demo2](scream_1.wav.png)
+
 **Bregman modules:**
-<ul>
-<li>features - collection of time-frequency audio features as numpy arrays</li>
-<li>distance - similarity metrics for feature arrays</li>
-<li>psychoacoustics - dissonance functions</li>
-<li>testsignal - audio test signal synthesis</li>
-<li>tuning - musical tuning systems</li>
-</ul>
-</p>
+
+*   features - collection of time-frequency audio features as numpy arrays</li>
+*   distance - similarity metrics for feature arrays</li>
+*   psychoacoustics - dissonance functions</li>
+*   testsignal - audio test signal synthesis</li>
+*   tuning - musical tuning systems</li>
 
 **See [INSTALL.txt](INSTALL.txt)**
 
